@@ -4,4 +4,6 @@
 * [Front-End](FrontEnd/front_end.md)
    * [语法风格](FrontEnd/html_css_guides.md)
    * [CSS布局属性](FrontEnd/css_layouts.md)
+   * [前端面试题](FrontEnd/front_end_interview.md)
+   * [前端性能——雅虎“军规”](FrontEnd/performance.md)
 
