@@ -27,7 +27,7 @@
 1. 关联远程库
 	- `git remote add origin git@github.com:path/reo-name.git`
 	- 第一次push使用命令 `git push -u origin master`
-	- 之后可使用 `git push origin master`
+	- 之后可使用 `git push origin master` 或者 `git push`
 	- `git pull origin <branch>` 拉取远程分支并与当前本地分支合并
 3. 克隆仓库
 	- `git clone <url>` Git支持多种协议，`https` | `ssh`
