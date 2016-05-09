@@ -69,3 +69,8 @@
 	- `git push origin :refs/tags/<tagname>` 删除远程标签
 
 ## Tips
+1. `ssh` 协议 `push` 时不需要密码
+2. `https` 协议需要密码的问题可以用以下代码解决
+```bash
+$ git config --global credential.helper cache
+```
