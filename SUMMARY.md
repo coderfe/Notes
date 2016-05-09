@@ -9,5 +9,5 @@
 * [Git-Github](Git and GitHub/git_github.md)
    * [Git常用命令](Git and GitHub/git_command_line.md)
 * [Linux](Linux/linux.md)
-   * 学习Ubuntu
+   * [学习Ubuntu](Linux/study_ubuntu.md)
 
