@@ -10,5 +10,5 @@
    * [Git常用命令](Git and GitHub/git_command_line.md)
 * [Linux](Linux/linux.md)
    * [Ubuntu命令行](Linux/study_ubuntu.md)
-   * Ubuntu安装软件
+   * Ubuntu软件安装配置
 
