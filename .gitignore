@@ -1,0 +1,14 @@
+# no .a file
+*.a
+
+# only ingore the TODO file in the current directory
+/TODO
+
+ingore all files in the build/directory
+build/
+
+# ingore doc/notes.txt
+doc/*.txt
+
+# ingore all the pdf files 
+*.pdf
