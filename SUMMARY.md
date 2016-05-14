@@ -8,7 +8,8 @@
    * [前端性能——雅虎“军规”](FrontEnd/performance.md)
 * [Git-Github](Git and GitHub/git_github.md)
    * [Git常用命令](Git and GitHub/git_command_line.md)
-* [Linux](Linux/linux.md)
-   * [Ubuntu命令行](Linux/study_ubuntu.md)
-   * [Ubuntu软件安装配置](Linux/ubuntu_install_software.md)
+* [Linux－Ubuntu](Linux/linux.md)
+   * [问题——双系统时间同步](Linux/issues_win_time.md)
+   * [软件——Nodejs](Linux/software_nodejs.md)
+   * [软件——git, fish](Linux/software_git_fish.md)
 
