@@ -9,6 +9,6 @@
 * [Git-Github](Git and GitHub/git_github.md)
    * [Git常用命令](Git and GitHub/git_command_line.md)
 * [Linux](Linux/linux.md)
-   * [Ubuntu命令行](Linux/ubuntu_issues.md)
+   * [Ubuntu使用——问题篇](Linux/ubuntu_issues.md)
    * [Ubuntu软件安装配置](Linux/ubuntu_install_software.md)
 
