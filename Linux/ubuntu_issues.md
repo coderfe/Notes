@@ -20,6 +20,7 @@
     ```
   - 以上是在Ubuntu系统中操作，还可以在Windows中更改相关设置
 
+
 2. 在Windows中解决
 
   - 下载[windowstimefixutc.reg](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/windowstimefixutc.reg)，然后双击
