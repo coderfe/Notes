@@ -8,7 +8,7 @@
    * [前端性能——雅虎“军规”](FrontEnd/performance.md)
 * [Git-Github](Git and GitHub/git_github.md)
    * [Git常用命令](Git and GitHub/git_command_line.md)
-* [Linux](Linux/linux.md)
+* [Linux－Ubuntu](Linux/linux.md)
    * [Ubuntu使用——问题篇](Linux/ubuntu_issues.md)
    * [Ubuntu使用——软件篇](Linux/ubuntu_software.md)
 
