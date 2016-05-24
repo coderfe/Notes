@@ -10,5 +10,5 @@
    * [Git常用命令](Git and GitHub/git_command_line.md)
 * [Linux－Ubuntu](Linux/linux.md)
    * [双系统时间同步](Linux/ubuntu_issues.md)
-   * [Ubuntu使用——软件篇](Linux/ubuntu_software.md)
+   * [Nodejs](Linux/ubuntu_software.md)
 
