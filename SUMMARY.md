@@ -10,6 +10,6 @@
    * [Git常用命令](Git and GitHub/git_command_line.md)
 * [Linux－Ubuntu](Linux/linux.md)
    * [问题——双系统时间同步](Linux/ubuntu_win_time.md)
-   * [软件——Nodejs](Linux/ubuntu_nodejs.md)
+   * [软件——Nodejs](Linux/software_nodejs.md)
    * [软件——git, fish](Linux/software_git_fish.md)
 
