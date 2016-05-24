@@ -1,8 +1,8 @@
-# Ubuntu下软件的安装配置
+# Ubuntu下Nodejs的安装配置
 
 > 在Ubuntu16+版本以上，可以使用apt来代替apt-get
 
-## 安装 `Nodejs6.0.0`
+## 安装 `Nodejs6.0.0+`
 ### 离线安装包方式
 1. 通过浏览器下载`Nodejs`压缩包,移动到想要安装的文件夹
 2. 解压`tar -zxf nodejspack.tar.gz`
@@ -29,17 +29,3 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | N
 $ nvm install 6.0
 ```
 `nvm`貌似不支持`fish shell`
-
-## 安装 `Git`
-```bash
-$  sudo add-apt-repository ppa:git-core/ppa
-$  sudo apt-get update
-$  sudo apt-get install git
-```
-
-## 安装 `fish`
-```bash
-$  sudo apt-get install fish
-#  将 `fish` 设置为默认Bash
-$  chsh -s /usr/bin/fish
-```
