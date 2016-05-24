@@ -1,6 +1,4 @@
-# 使用Ubuntu过程中遇到的问题
-
-### Windows和Ubuntu时间同步问题
+# Windows和Ubuntu时间同步问题
 
 如果安装了Windows和Ubuntu双系统的话，可能会出现两个系统间时间不同步的问题。这是因为Windows采用的是**Local Time**，而Ubuntu则使用**UTC**。
 
