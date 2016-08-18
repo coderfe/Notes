@@ -13,5 +13,5 @@
    * [问题——双系统时间同步](Linux/issues_win_time.md)
    * [软件——Nodejs](Linux/software_nodejs.md)
    * [软件——git, fish](Linux/software_git_fish.md)
-   * 问题——如何免密码登陆远程服务器
+   * [问题——如何免密码登陆远程服务器](Linux/issues_remote_ssh.md)
 
