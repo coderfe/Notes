@@ -32,6 +32,16 @@
   - multiple background images
   - linear-gradient as background image
 
+## innerHTML
+
+- IE8 不支持 innerHTML ，如果在 IE8 中运行类似 `el.innerHTML = '<div>' + content + '</div>'`的脚本时会报错如下：
+
+  ```
+  Unknown runtime error
+  ```
+
+- 可以利用这两种方法 `document.createElement()` & `appendChild()` ，动态创建并插入到目标元素。
+
 ## 以上
 
 以上就是我在实践项目中遇到的 IE8 兼容性问题以及我自己的解决方案。如果你有更好的解决方案或者 IE8 兼容性问题，欢迎讨论：[https://www.gitbook.com/book/coderfe/notes/discussions](https://www.gitbook.com/book/coderfe/notes/discussions)
