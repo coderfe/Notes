@@ -1,6 +1,6 @@
 # Fedora 安装 MongoDB
 
-最近从 Ubuntu 转到 Fedora ，虽然都属于 Linux ，但是感觉还是有点不适应，尤其是 **apt => dnf** 的变化。昨晚在安装 MongoDB 的时候出现了一系列的问题，但是在经历了这一系列的折腾之后，终于成功安装了 MongoDB ，恰好也熟悉了 dnf 命令行。
+最近从 Ubuntu 转到 Fedora ，虽然都属于 Linux ，但是感觉还是有点不适应，尤其是 **apt => dnf** 的变化。在安装 MongoDB 的时候出现了一系列的问题，幸运的是官网给出了解决方案，在经历了这一系列的折腾之后，终于成功安装了 MongoDB ，同时也差不多熟悉了 dnf 命令行。
 
 ## 添加源
 
@@ -34,7 +34,7 @@
   ```shell
   sudo vim /etc/selinux/config
   # 1.更改 SELINUX=enforcing => SELINUX=disabled
-  # 1.更改 SELINUX=enforcing => SELINUX=permissive
+  # 2.更改 SELINUX=enforcing => SELINUX=permissive
   ```
 
 ## 使用 MongoDB
@@ -51,11 +51,4 @@
   # 状态
   sudo service mongod status
   ```
-
-- mongo-shell 的使用
-
-  ```shell
-
-  ```
-
   ​
